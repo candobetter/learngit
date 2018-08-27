@@ -1,0 +1,5 @@
+  How to push local repository to github
+  
+  1. git remote add origin https://github.com/candobetter/learngit.git #关联一个远程库
+  2. git push -u origin master  #第一次推送所有内容
+  3. git push  origin master    #直接推送
